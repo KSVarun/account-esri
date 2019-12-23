@@ -9,4 +9,5 @@ import org.springframework.data.domain.Page;
 @Repository
 public interface AccountRepository extends JpaRepository<Account,Long> {
     Page<Account> findByAccountNo(Pageable pageable, Long accountNo);
+    void deleteByAccountNo(Long accountNo);
 }

@@ -28,9 +28,9 @@ public class AccountService {
         return accountRepository.save(account);
     }
 
-    public void deleteAccountData(Long accountNo) {
+    public void deleteAccountData(Long id) {
         try{
-            accountRepository.deleteById(accountNo);
+            accountRepository.deleteById(id);
         }catch (Exception e){
             throw new AccountException("ID does not exists");
         }

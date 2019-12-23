@@ -31,7 +31,6 @@ public class AccountController {
     @GetMapping("/")
     public ResponseEntity<?> findAllGame(@PageableDefault Pageable pageable, HttpServletRequest request){
         String key=request.getHeader("X-API-Key");
-        System.out.println("key--------"+key);
         if (key==null){
             throw new ApiKeyException("Missing request header X-API-Key");
         }
@@ -56,9 +55,9 @@ public class AccountController {
         Account newGame=accountService.addNewAccountData(account);
         return new ResponseEntity<Account>(newGame,HttpStatus.CREATED);}
 
-    @DeleteMapping("{accountNo}")
-    public ResponseEntity<?> deleteGame(@PathVariable Long accountNo) {
-        accountService.deleteAccountData(accountNo);
+    @DeleteMapping("{id}")
+    public ResponseEntity<?> deleteGame(@PathVariable Long id) {
+        accountService.deleteAccountData(id);
         return new ResponseEntity<String>("Account Data Deleted", HttpStatus.OK);
     }
 }
