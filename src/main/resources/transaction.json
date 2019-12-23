@@ -1,0 +1,1793 @@
+[
+  {
+    "accountNo": 409000611074,
+    "date": "29 Jun 17",
+    "transactionDetails": "TRF FROM  Indiaforensic SERVICES",
+    "valueDate": "29 Jun 17",
+    "withdrawalAMT": "",
+    "depositAMT": "10,00,000.00",
+    "balanceAMT": "10,00,000.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "5 Jul 17",
+    "transactionDetails": "TRF FROM  Indiaforensic SERVICES",
+    "valueDate": "5 Jul 17",
+    "withdrawalAMT": "",
+    "depositAMT": "10,00,000.00",
+    "balanceAMT": "20,00,000.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "18 Jul 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "18 Jul 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "25,00,000.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "1 Aug 17",
+    "transactionDetails": "TRF FRM  Indiaforensic SERVICES",
+    "valueDate": "1 Aug 17",
+    "withdrawalAMT": "",
+    "depositAMT": "30,00,000.00",
+    "balanceAMT": "55,00,000.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "60,00,000.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "65,00,000.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "70,00,000.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "75,00,000.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "80,00,000.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "85,00,000.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL01071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "1,33,900.00",
+    "depositAMT": "",
+    "balanceAMT": "83,66,100.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL02071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "18,000.00",
+    "depositAMT": "",
+    "balanceAMT": "83,48,100.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL03071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "5,000.00",
+    "depositAMT": "",
+    "balanceAMT": "83,43,100.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL04071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "1,95,800.00",
+    "depositAMT": "",
+    "balanceAMT": "81,47,300.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL05071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "81,600.00",
+    "depositAMT": "",
+    "balanceAMT": "80,65,700.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL06071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "41,800.00",
+    "depositAMT": "",
+    "balanceAMT": "80,23,900.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL07071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "98,500.00",
+    "depositAMT": "",
+    "balanceAMT": "79,25,400.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL10071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "1,43,800.00",
+    "depositAMT": "",
+    "balanceAMT": "77,81,600.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL11071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "3,31,650.00",
+    "depositAMT": "",
+    "balanceAMT": "74,49,950.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL12071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "1,29,000.00",
+    "depositAMT": "",
+    "balanceAMT": "73,20,950.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL13071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "2,30,013.00",
+    "depositAMT": "",
+    "balanceAMT": "70,90,937.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL14071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "3,67,900.00",
+    "depositAMT": "",
+    "balanceAMT": "67,23,037.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL15071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "1,08,000.00",
+    "depositAMT": "",
+    "balanceAMT": "66,15,037.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL16071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "64,800.00",
+    "depositAMT": "",
+    "balanceAMT": "65,50,237.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL17071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "1,41,000.00",
+    "depositAMT": "",
+    "balanceAMT": "64,09,237.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL18071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "61,750.00",
+    "depositAMT": "",
+    "balanceAMT": "63,47,487.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL19071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "67,920.00",
+    "depositAMT": "",
+    "balanceAMT": "62,79,567.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL20071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "78,100.00",
+    "depositAMT": "",
+    "balanceAMT": "62,01,467.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL21071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "35,650.00",
+    "depositAMT": "",
+    "balanceAMT": "61,65,817.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL22071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "2,06,000.00",
+    "depositAMT": "",
+    "balanceAMT": "59,59,817.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL24071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "35,300.00",
+    "depositAMT": "",
+    "balanceAMT": "59,24,517.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL25071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "49,800.00",
+    "depositAMT": "",
+    "balanceAMT": "58,74,717.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL26071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "53,000.00",
+    "depositAMT": "",
+    "balanceAMT": "58,21,717.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL27071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "91,300.00",
+    "depositAMT": "",
+    "balanceAMT": "57,30,417.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL28071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "57,499.00",
+    "depositAMT": "",
+    "balanceAMT": "56,72,918.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL30071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "20,000.00",
+    "depositAMT": "",
+    "balanceAMT": "56,52,918.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Aug 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL31071",
+    "valueDate": "16 Aug 17",
+    "withdrawalAMT": "19,400.00",
+    "depositAMT": "",
+    "balanceAMT": "56,33,518.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL01081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "40,500.00",
+    "depositAMT": "",
+    "balanceAMT": "55,93,018.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL02081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "2,42,300.00",
+    "depositAMT": "",
+    "balanceAMT": "53,50,718.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL03081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "90,100.00",
+    "depositAMT": "",
+    "balanceAMT": "52,60,618.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL04081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "1,13,250.00",
+    "depositAMT": "",
+    "balanceAMT": "51,47,368.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL05081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "12,500.00",
+    "depositAMT": "",
+    "balanceAMT": "51,34,868.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL06081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "40,000.00",
+    "depositAMT": "",
+    "balanceAMT": "50,94,868.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL07081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "2,06,900.00",
+    "depositAMT": "",
+    "balanceAMT": "48,87,968.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL08081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "2,76,000.00",
+    "depositAMT": "",
+    "balanceAMT": "46,11,968.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL09081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "1,71,000.00",
+    "depositAMT": "",
+    "balanceAMT": "44,40,968.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL10081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "40,100.00",
+    "depositAMT": "",
+    "balanceAMT": "44,00,868.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL11081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "1,89,800.00",
+    "depositAMT": "",
+    "balanceAMT": "42,11,068.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL12081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "55,800.00",
+    "depositAMT": "",
+    "balanceAMT": "41,55,268.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL13081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "95,400.00",
+    "depositAMT": "",
+    "balanceAMT": "40,59,868.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL14081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "2,71,323.00",
+    "depositAMT": "",
+    "balanceAMT": "37,88,545.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL16081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "2,00,600.00",
+    "depositAMT": "",
+    "balanceAMT": "35,87,945.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL17081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "1,76,900.00",
+    "depositAMT": "",
+    "balanceAMT": "34,11,045.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL18081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "1,50,050.00",
+    "depositAMT": "",
+    "balanceAMT": "32,60,995.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL19081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "82,500.00",
+    "depositAMT": "",
+    "balanceAMT": "31,78,495.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL20081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "14,800.00",
+    "depositAMT": "",
+    "balanceAMT": "31,63,695.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL21081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "1,50,600.00",
+    "depositAMT": "",
+    "balanceAMT": "30,13,095.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL22081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "2,03,325.00",
+    "depositAMT": "",
+    "balanceAMT": "28,09,770.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL23081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "1,23,900.00",
+    "depositAMT": "",
+    "balanceAMT": "26,85,870.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL24081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "33,863.00",
+    "depositAMT": "",
+    "balanceAMT": "26,52,007.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL25081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "32,000.00",
+    "depositAMT": "",
+    "balanceAMT": "26,20,007.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL26081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "8,299.00",
+    "depositAMT": "",
+    "balanceAMT": "26,11,708.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL28081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "52,219.00",
+    "depositAMT": "",
+    "balanceAMT": "25,59,489.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL29081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "96,450.00",
+    "depositAMT": "",
+    "balanceAMT": "24,63,039.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL30081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "1,39,863.00",
+    "depositAMT": "",
+    "balanceAMT": "23,23,176.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL31081",
+    "valueDate": "6 Sep 17",
+    "withdrawalAMT": "52,723.00",
+    "depositAMT": "",
+    "balanceAMT": "22,70,453.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL01091",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "77,251.00",
+    "depositAMT": "",
+    "balanceAMT": "21,93,202.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL02091",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "20,000.00",
+    "depositAMT": "",
+    "balanceAMT": "21,73,202.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL03091",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "10,000.00",
+    "depositAMT": "",
+    "balanceAMT": "21,63,202.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL04091",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "1,03,600.00",
+    "depositAMT": "",
+    "balanceAMT": "20,59,602.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL05091",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "71,000.00",
+    "depositAMT": "",
+    "balanceAMT": "19,88,602.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL06091",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "1,29,400.00",
+    "depositAMT": "",
+    "balanceAMT": "18,59,202.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL07091",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "2,90,163.00",
+    "depositAMT": "",
+    "balanceAMT": "15,69,039.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL08091",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "34,300.00",
+    "depositAMT": "",
+    "balanceAMT": "15,34,739.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL09091",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "49,800.00",
+    "depositAMT": "",
+    "balanceAMT": "14,84,939.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL10091",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "44,800.00",
+    "depositAMT": "",
+    "balanceAMT": "14,40,139.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL11091",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "1,51,550.00",
+    "depositAMT": "",
+    "balanceAMT": "12,88,589.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL12091",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "3,10,399.00",
+    "depositAMT": "",
+    "balanceAMT": "9,78,190.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL13091",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "2,71,401.00",
+    "depositAMT": "",
+    "balanceAMT": "7,06,789.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL14091",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "2,75,449.00",
+    "depositAMT": "",
+    "balanceAMT": "4,31,340.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL15091",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "51,502.00",
+    "depositAMT": "",
+    "balanceAMT": "3,79,838.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL16091",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "36,650.00",
+    "depositAMT": "",
+    "balanceAMT": "3,43,188.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL17091",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "99,600.00",
+    "depositAMT": "",
+    "balanceAMT": "2,43,588.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "7,43,588.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "12,43,588.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "17,43,588.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "22,43,588.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Sep 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "25 Sep 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "27,43,588.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "26 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL18091",
+    "valueDate": "26 Sep 17",
+    "withdrawalAMT": "4,11,763.00",
+    "depositAMT": "",
+    "balanceAMT": "23,31,825.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "26 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL19091",
+    "valueDate": "26 Sep 17",
+    "withdrawalAMT": "3,55,138.00",
+    "depositAMT": "",
+    "balanceAMT": "19,76,687.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "26 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL20091",
+    "valueDate": "26 Sep 17",
+    "withdrawalAMT": "88,656.00",
+    "depositAMT": "",
+    "balanceAMT": "18,88,031.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "26 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL21091",
+    "valueDate": "26 Sep 17",
+    "withdrawalAMT": "14,800.00",
+    "depositAMT": "",
+    "balanceAMT": "18,73,231.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "26 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL22091",
+    "valueDate": "26 Sep 17",
+    "withdrawalAMT": "27,000.00",
+    "depositAMT": "",
+    "balanceAMT": "18,46,231.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "26 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL23091",
+    "valueDate": "26 Sep 17",
+    "withdrawalAMT": "42,850.00",
+    "depositAMT": "",
+    "balanceAMT": "18,03,381.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "26 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL24091",
+    "valueDate": "26 Sep 17",
+    "withdrawalAMT": "39,925.00",
+    "depositAMT": "",
+    "balanceAMT": "17,63,456.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "26 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL25091",
+    "valueDate": "26 Sep 17",
+    "withdrawalAMT": "2,02,106.00",
+    "depositAMT": "",
+    "balanceAMT": "15,61,350.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "27 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL26091",
+    "valueDate": "27 Sep 17",
+    "withdrawalAMT": "1,69,802.00",
+    "depositAMT": "",
+    "balanceAMT": "13,91,548.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "28 Sep 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL27091",
+    "valueDate": "28 Sep 17",
+    "withdrawalAMT": "2,00,570.00",
+    "depositAMT": "",
+    "balanceAMT": "11,90,978.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "3 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL28091",
+    "valueDate": "3 Oct 17",
+    "withdrawalAMT": "12,106.00",
+    "depositAMT": "",
+    "balanceAMT": "11,78,872.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "3 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL29091",
+    "valueDate": "3 Oct 17",
+    "withdrawalAMT": "12,611.00",
+    "depositAMT": "",
+    "balanceAMT": "11,66,261.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "3 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL30091",
+    "valueDate": "3 Oct 17",
+    "withdrawalAMT": "9,375.00",
+    "depositAMT": "",
+    "balanceAMT": "11,56,886.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "4 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL03101",
+    "valueDate": "4 Oct 17",
+    "withdrawalAMT": "1,25,200.00",
+    "depositAMT": "",
+    "balanceAMT": "10,31,686.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "5 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL04101",
+    "valueDate": "5 Oct 17",
+    "withdrawalAMT": "61,400.00",
+    "depositAMT": "",
+    "balanceAMT": "9,70,286.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL05101",
+    "valueDate": "6 Oct 17",
+    "withdrawalAMT": "1,43,700.00",
+    "depositAMT": "",
+    "balanceAMT": "8,26,586.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Oct 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "16 Oct 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "13,26,586.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Oct 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "16 Oct 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "18,26,586.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "16 Oct 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "16 Oct 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "23,26,586.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "17 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL06101",
+    "valueDate": "17 Oct 17",
+    "withdrawalAMT": "6,000.00",
+    "depositAMT": "",
+    "balanceAMT": "23,20,586.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "17 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL07101",
+    "valueDate": "17 Oct 17",
+    "withdrawalAMT": "97,950.00",
+    "depositAMT": "",
+    "balanceAMT": "22,22,636.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "17 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL08101",
+    "valueDate": "17 Oct 17",
+    "withdrawalAMT": "33,000.00",
+    "depositAMT": "",
+    "balanceAMT": "21,89,636.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "17 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL09101",
+    "valueDate": "17 Oct 17",
+    "withdrawalAMT": "3,29,300.00",
+    "depositAMT": "",
+    "balanceAMT": "18,60,336.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "17 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL10101",
+    "valueDate": "17 Oct 17",
+    "withdrawalAMT": "18,000.00",
+    "depositAMT": "",
+    "balanceAMT": "18,42,336.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "17 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL11101",
+    "valueDate": "17 Oct 17",
+    "withdrawalAMT": "1,13,400.00",
+    "depositAMT": "",
+    "balanceAMT": "17,28,936.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "17 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL12101",
+    "valueDate": "17 Oct 17",
+    "withdrawalAMT": "2,62,226.00",
+    "depositAMT": "",
+    "balanceAMT": "14,66,710.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "17 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL13101",
+    "valueDate": "17 Oct 17",
+    "withdrawalAMT": "3,18,750.00",
+    "depositAMT": "",
+    "balanceAMT": "11,47,960.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "17 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL14101",
+    "valueDate": "17 Oct 17",
+    "withdrawalAMT": "65,549.00",
+    "depositAMT": "",
+    "balanceAMT": "10,82,411.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "18 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL17101",
+    "valueDate": "18 Oct 17",
+    "withdrawalAMT": "2,06,501.00",
+    "depositAMT": "",
+    "balanceAMT": "8,75,910.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "21 Oct 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "21 Oct 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "13,75,910.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "21 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL18101",
+    "valueDate": "21 Oct 17",
+    "withdrawalAMT": "85,000.00",
+    "depositAMT": "",
+    "balanceAMT": "12,90,910.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "21 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL19101",
+    "valueDate": "21 Oct 17",
+    "withdrawalAMT": "76,389.00",
+    "depositAMT": "",
+    "balanceAMT": "12,14,521.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "21 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL20101",
+    "valueDate": "21 Oct 17",
+    "withdrawalAMT": "62,725.00",
+    "depositAMT": "",
+    "balanceAMT": "11,51,796.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "23 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL21101",
+    "valueDate": "23 Oct 17",
+    "withdrawalAMT": "39,000.00",
+    "depositAMT": "",
+    "balanceAMT": "11,12,796.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "23 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL22101",
+    "valueDate": "23 Oct 17",
+    "withdrawalAMT": "9,600.00",
+    "depositAMT": "",
+    "balanceAMT": "11,03,196.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "24 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL23101",
+    "valueDate": "24 Oct 17",
+    "withdrawalAMT": "1,23,260.00",
+    "depositAMT": "",
+    "balanceAMT": "9,79,936.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "25 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL24101",
+    "valueDate": "25 Oct 17",
+    "withdrawalAMT": "3,69,803.00",
+    "depositAMT": "",
+    "balanceAMT": "6,10,133.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "26 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL25101",
+    "valueDate": "26 Oct 17",
+    "withdrawalAMT": "1,70,125.00",
+    "depositAMT": "",
+    "balanceAMT": "4,40,008.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "26 Oct 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "26 Oct 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "9,40,008.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "27 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL26101",
+    "valueDate": "27 Oct 17",
+    "withdrawalAMT": "2,08,000.00",
+    "depositAMT": "",
+    "balanceAMT": "7,32,008.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "30 Oct 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "30 Oct 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "12,32,008.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "30 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL27101",
+    "valueDate": "30 Oct 17",
+    "withdrawalAMT": "2,91,150.00",
+    "depositAMT": "",
+    "balanceAMT": "9,40,858.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "30 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL28101",
+    "valueDate": "30 Oct 17",
+    "withdrawalAMT": "24,000.00",
+    "depositAMT": "",
+    "balanceAMT": "9,16,858.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "31 Oct 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL30101",
+    "valueDate": "31 Oct 17",
+    "withdrawalAMT": "1,41,546.00",
+    "depositAMT": "",
+    "balanceAMT": "7,75,312.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "1 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL31101",
+    "valueDate": "1 Nov 17",
+    "withdrawalAMT": "80,000.00",
+    "depositAMT": "",
+    "balanceAMT": "6,95,312.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "2 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL01111",
+    "valueDate": "2 Nov 17",
+    "withdrawalAMT": "46,250.00",
+    "depositAMT": "",
+    "balanceAMT": "6,49,062.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "3 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL02111",
+    "valueDate": "3 Nov 17",
+    "withdrawalAMT": "42,825.00",
+    "depositAMT": "",
+    "balanceAMT": "6,06,237.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL03111",
+    "valueDate": "6 Nov 17",
+    "withdrawalAMT": "1,79,463.00",
+    "depositAMT": "",
+    "balanceAMT": "4,26,774.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL04111",
+    "valueDate": "6 Nov 17",
+    "withdrawalAMT": "18,949.00",
+    "depositAMT": "",
+    "balanceAMT": "4,07,825.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL05111",
+    "valueDate": "6 Nov 17",
+    "withdrawalAMT": "91,441.00",
+    "depositAMT": "",
+    "balanceAMT": "3,16,384.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "7 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL06111",
+    "valueDate": "7 Nov 17",
+    "withdrawalAMT": "1,47,750.00",
+    "depositAMT": "",
+    "balanceAMT": "1,68,634.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "8 Nov 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "8 Nov 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "6,68,634.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "8 Nov 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "8 Nov 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "11,68,634.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "8 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL07111",
+    "valueDate": "8 Nov 17",
+    "withdrawalAMT": "1,10,188.00",
+    "depositAMT": "",
+    "balanceAMT": "10,58,446.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "9 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL08111",
+    "valueDate": "9 Nov 17",
+    "withdrawalAMT": "61,870.00",
+    "depositAMT": "",
+    "balanceAMT": "9,96,576.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "10 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL09111",
+    "valueDate": "10 Nov 17",
+    "withdrawalAMT": "84,101.00",
+    "depositAMT": "",
+    "balanceAMT": "9,12,475.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "14 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL10111",
+    "valueDate": "14 Nov 17",
+    "withdrawalAMT": "1,29,700.00",
+    "depositAMT": "",
+    "balanceAMT": "7,82,775.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "14 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL11111",
+    "valueDate": "14 Nov 17",
+    "withdrawalAMT": "7,499.00",
+    "depositAMT": "",
+    "balanceAMT": "7,75,276.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "14 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL12111",
+    "valueDate": "14 Nov 17",
+    "withdrawalAMT": "80,100.00",
+    "depositAMT": "",
+    "balanceAMT": "6,95,176.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "14 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL13111",
+    "valueDate": "14 Nov 17",
+    "withdrawalAMT": "1,43,850.00",
+    "depositAMT": "",
+    "balanceAMT": "5,51,326.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "15 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL14111",
+    "valueDate": "15 Nov 17",
+    "withdrawalAMT": "2,89,500.00",
+    "depositAMT": "",
+    "balanceAMT": "2,61,826.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "17 Nov 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "17 Nov 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "7,61,826.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "17 Nov 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "17 Nov 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "12,61,826.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "17 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL16111",
+    "valueDate": "17 Nov 17",
+    "withdrawalAMT": "94,900.00",
+    "depositAMT": "",
+    "balanceAMT": "11,66,926.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "17 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL15111",
+    "valueDate": "17 Nov 17",
+    "withdrawalAMT": "2,24,851.00",
+    "depositAMT": "",
+    "balanceAMT": "9,42,075.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "18 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL17111",
+    "valueDate": "18 Nov 17",
+    "withdrawalAMT": "2,84,953.00",
+    "depositAMT": "",
+    "balanceAMT": "6,57,122.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "20 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL18111",
+    "valueDate": "20 Nov 17",
+    "withdrawalAMT": "1,15,150.00",
+    "depositAMT": "",
+    "balanceAMT": "5,41,972.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "20 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL19111",
+    "valueDate": "20 Nov 17",
+    "withdrawalAMT": "40,000.00",
+    "depositAMT": "",
+    "balanceAMT": "5,01,972.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "21 Nov 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "21 Nov 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "10,01,972.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "21 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL20111",
+    "valueDate": "21 Nov 17",
+    "withdrawalAMT": "1,45,900.00",
+    "depositAMT": "",
+    "balanceAMT": "8,56,072.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "22 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL21111",
+    "valueDate": "22 Nov 17",
+    "withdrawalAMT": "83,251.00",
+    "depositAMT": "",
+    "balanceAMT": "7,72,821.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "23 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL22111",
+    "valueDate": "23 Nov 17",
+    "withdrawalAMT": "1,92,200.00",
+    "depositAMT": "",
+    "balanceAMT": "5,80,621.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "24 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL23111",
+    "valueDate": "24 Nov 17",
+    "withdrawalAMT": "74,799.00",
+    "depositAMT": "",
+    "balanceAMT": "5,05,822.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "27 Nov 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "27 Nov 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "10,05,822.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "27 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL24117",
+    "valueDate": "27 Nov 17",
+    "withdrawalAMT": "19,400.00",
+    "depositAMT": "",
+    "balanceAMT": "9,86,422.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "27 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL25117",
+    "valueDate": "27 Nov 17",
+    "withdrawalAMT": "39,700.00",
+    "depositAMT": "",
+    "balanceAMT": "9,46,722.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "27 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL26117",
+    "valueDate": "27 Nov 17",
+    "withdrawalAMT": "42,800.00",
+    "depositAMT": "",
+    "balanceAMT": "9,03,922.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "28 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL27111",
+    "valueDate": "28 Nov 17",
+    "withdrawalAMT": "1,00,402.00",
+    "depositAMT": "",
+    "balanceAMT": "8,03,520.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "29 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL28111",
+    "valueDate": "29 Nov 17",
+    "withdrawalAMT": "1,01,500.00",
+    "depositAMT": "",
+    "balanceAMT": "7,02,020.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "30 Nov 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL29111",
+    "valueDate": "30 Nov 17",
+    "withdrawalAMT": "36,961.00",
+    "depositAMT": "",
+    "balanceAMT": "6,65,059.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "2 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL30111",
+    "valueDate": "2 Dec 17",
+    "withdrawalAMT": "67,850.00",
+    "depositAMT": "",
+    "balanceAMT": "5,97,209.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "2 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL01121",
+    "valueDate": "2 Dec 17",
+    "withdrawalAMT": "19,800.00",
+    "depositAMT": "",
+    "balanceAMT": "5,77,409.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "4 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL02121",
+    "valueDate": "4 Dec 17",
+    "withdrawalAMT": "10,000.00",
+    "depositAMT": "",
+    "balanceAMT": "5,67,409.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "4 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL03121",
+    "valueDate": "4 Dec 17",
+    "withdrawalAMT": "24,500.00",
+    "depositAMT": "",
+    "balanceAMT": "5,42,909.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "5 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL04121",
+    "valueDate": "5 Dec 17",
+    "withdrawalAMT": "41,700.00",
+    "depositAMT": "",
+    "balanceAMT": "5,01,209.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Dec 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "6 Dec 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "10,01,209.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "6 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL05121",
+    "valueDate": "6 Dec 17",
+    "withdrawalAMT": "2,18,050.00",
+    "depositAMT": "",
+    "balanceAMT": "7,83,159.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "7 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL06121",
+    "valueDate": "7 Dec 17",
+    "withdrawalAMT": "1,86,400.00",
+    "depositAMT": "",
+    "balanceAMT": "5,96,759.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "8 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL07121",
+    "valueDate": "8 Dec 17",
+    "withdrawalAMT": "1,71,330.00",
+    "depositAMT": "",
+    "balanceAMT": "4,25,429.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "11 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL08121",
+    "valueDate": "11 Dec 17",
+    "withdrawalAMT": "34,400.00",
+    "depositAMT": "",
+    "balanceAMT": "3,91,029.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "11 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL09121",
+    "valueDate": "11 Dec 17",
+    "withdrawalAMT": "51,199.00",
+    "depositAMT": "",
+    "balanceAMT": "3,39,830.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "11 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL10121",
+    "valueDate": "11 Dec 17",
+    "withdrawalAMT": "1,59,150.00",
+    "depositAMT": "",
+    "balanceAMT": "1,80,680.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "12 Dec 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "12 Dec 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "6,80,680.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "12 Dec 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "12 Dec 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "11,80,680.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "13 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL11121",
+    "valueDate": "13 Dec 17",
+    "withdrawalAMT": "2,06,075.00",
+    "depositAMT": "",
+    "balanceAMT": "9,74,605.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "13 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL12121",
+    "valueDate": "13 Dec 17",
+    "withdrawalAMT": "1,42,000.00",
+    "depositAMT": "",
+    "balanceAMT": "8,32,605.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "14 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL13121",
+    "valueDate": "14 Dec 17",
+    "withdrawalAMT": "3,50,350.00",
+    "depositAMT": "",
+    "balanceAMT": "4,82,255.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "15 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL14121",
+    "valueDate": "15 Dec 17",
+    "withdrawalAMT": "3,43,900.00",
+    "depositAMT": "",
+    "balanceAMT": "1,38,355.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "18 Dec 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "18 Dec 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "6,38,355.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "18 Dec 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "18 Dec 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "11,38,355.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "18 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL15121",
+    "valueDate": "18 Dec 17",
+    "withdrawalAMT": "2,10,500.00",
+    "depositAMT": "",
+    "balanceAMT": "9,27,855.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "18 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL17121",
+    "valueDate": "18 Dec 17",
+    "withdrawalAMT": "1,39,500.00",
+    "depositAMT": "",
+    "balanceAMT": "7,88,355.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "18 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL16121",
+    "valueDate": "18 Dec 17",
+    "withdrawalAMT": "92,550.00",
+    "depositAMT": "",
+    "balanceAMT": "6,95,805.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "19 Dec 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "19 Dec 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "11,95,805.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "19 Dec 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "19 Dec 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "16,95,805.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "19 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL18121",
+    "valueDate": "19 Dec 17",
+    "withdrawalAMT": "6,54,498.00",
+    "depositAMT": "",
+    "balanceAMT": "10,41,307.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "20 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL19121",
+    "valueDate": "20 Dec 17",
+    "withdrawalAMT": "5,04,450.00",
+    "depositAMT": "",
+    "balanceAMT": "5,36,857.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "20 Dec 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "20 Dec 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "10,36,857.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "21 Dec 17",
+    "transactionDetails": "INDO GIBL Indiaforensic STL20121",
+    "valueDate": "21 Dec 17",
+    "withdrawalAMT": "5,61,225.00",
+    "depositAMT": "",
+    "balanceAMT": "4,75,632.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "21 Dec 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "21 Dec 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "9,75,632.00"
+  },
+  {
+    "accountNo": 409000611074,
+    "date": "21 Dec 17",
+    "transactionDetails": "FDRL/INTERNAL FUND TRANSFE",
+    "valueDate": "21 Dec 17",
+    "withdrawalAMT": "",
+    "depositAMT": "5,00,000.00",
+    "balanceAMT": "14,75,632.00"
+  }
+]
